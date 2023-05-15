@@ -1,4 +1,4 @@
-# Digit-Recognition-With-Deep-Neural-Network
+# Digit Recognition With Deep Neural Network
 
 
   The project focuses on training a neural network for digit recognition using a dataset of 5000 handwritten images. The dataset is stored in a CSV file, with each image represented as a 20x20 matrix and labeled with the corresponding digit value.
